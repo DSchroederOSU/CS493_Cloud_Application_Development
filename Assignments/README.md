@@ -1,0 +1,1 @@
+This folder contains the assignments from throughout the term
